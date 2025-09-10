@@ -8,3 +8,11 @@ This is a collection of EDA projects made out of python notebook.
 3.Mall Customer Analysis
 
 4.Newyork Airbnb Analysis
+
+5.Superstore Sales Analysis
+
+6.Heart Analysis
+
+7.IMDB movies Analysis
+
+8.
