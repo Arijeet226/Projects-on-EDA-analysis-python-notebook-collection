@@ -15,4 +15,4 @@ This is a collection of EDA projects made out of python notebook.
 
 7.IMDB movies Analysis
 
-8.
+8. Udemy Course Analysis
